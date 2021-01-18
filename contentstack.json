@@ -1,5 +1,13 @@
 [
-    {
+    {        "ContentstackLogo": "https://www.contentstack.com/favicon.ico",
+             "navigationLinks" : [
+                        "Product",
+                        "Resources",
+                        "Customers",
+                        "Partners",
+                        "Company",
+                        "Request Demo"
+                    ],
         "heading" : "Finally, A Modern Content Management System",
         "subHeading" : "Contentstack brings business and technology teams together to deliver personalized, omnichannel digital experiences.",
         "whyChooseContentstack" : [
