@@ -1,5 +1,5 @@
 [
-    {        "ContentstackLogo": "https://www.contentstack.com/favicon.ico",
+    {        "contentstackLogo": "https://www.contentstack.com/favicon.ico",
              "navigationLinks" : [
                         "Product",
                         "Resources",
@@ -54,6 +54,10 @@
                 "title" : "Multiple Environments",
                 "content" : "Create unlimited content management system, such as development, testing, staging, and production, to map to your content production process."
             }
+        ],
+        "bottomBanner":"TRY IT TO BELIEVE IT",
+        "footer":[
+            "Terms","Privacy"
         ]
     }
 ]
